@@ -1,0 +1,14 @@
+C:\Users\Nathan\AgendaContatos\bin\Debug\net9.0\AgendaContatos.exe
+C:\Users\Nathan\AgendaContatos\bin\Debug\net9.0\AgendaContatos.deps.json
+C:\Users\Nathan\AgendaContatos\bin\Debug\net9.0\AgendaContatos.runtimeconfig.json
+C:\Users\Nathan\AgendaContatos\bin\Debug\net9.0\AgendaContatos.dll
+C:\Users\Nathan\AgendaContatos\bin\Debug\net9.0\AgendaContatos.pdb
+C:\Users\Nathan\AgendaContatos\obj\Debug\net9.0\AgendaContatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\AgendaContatos\obj\Debug\net9.0\AgendaContatos.AssemblyInfoInputs.cache
+C:\Users\Nathan\AgendaContatos\obj\Debug\net9.0\AgendaContatos.AssemblyInfo.cs
+C:\Users\Nathan\AgendaContatos\obj\Debug\net9.0\AgendaContatos.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\AgendaContatos\obj\Debug\net9.0\AgendaContatos.dll
+C:\Users\Nathan\AgendaContatos\obj\Debug\net9.0\refint\AgendaContatos.dll
+C:\Users\Nathan\AgendaContatos\obj\Debug\net9.0\AgendaContatos.pdb
+C:\Users\Nathan\AgendaContatos\obj\Debug\net9.0\AgendaContatos.genruntimeconfig.cache
+C:\Users\Nathan\AgendaContatos\obj\Debug\net9.0\ref\AgendaContatos.dll
